@@ -1,16 +1,12 @@
-//better approach ; not optimal
+// using XOR concept
+
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
-        int hash[] = new int [n+1];
-        for (int i=0;i<n;i++){
-            hash[nums[i]]=1;
+        int ans = nums.length;
+        for(int i = 0 ;i<nums.length;++i){
+            ans ^= i ^ nums[i];
         }
-        for(int i=1;i<=n;i++){
-            if(hash[i]==0)
-                return i;
-        }
-        return 0;
+        return ans;
         
     }
 }
