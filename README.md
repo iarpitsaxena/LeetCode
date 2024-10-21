@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/thearpitsaxena/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/thearpitsaxena/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/thearpitsaxena/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0525-contiguous-array) |
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
 | [1813-maximum-erasure-value](https://github.com/thearpitsaxena/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -128,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
