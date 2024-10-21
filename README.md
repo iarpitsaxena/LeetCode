@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/thearpitsaxena/LeetCode/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/thearpitsaxena/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thearpitsaxena/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0525-contiguous-array) |
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/thearpitsaxena/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thearpitsaxena/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -127,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/thearpitsaxena/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0525-contiguous-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
