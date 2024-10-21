@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thearpitsaxena/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/thearpitsaxena/LeetCode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/0539-minimum-time-difference) |
+| [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/thearpitsaxena/LeetCode/tree/master/0455-assign-cookies) |
+| [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
