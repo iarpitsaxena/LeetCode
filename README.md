@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thearpitsaxena/LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/thearpitsaxena/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/thearpitsaxena/LeetCode/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thearpitsaxena/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thearpitsaxena/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/thearpitsaxena/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/thearpitsaxena/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/thearpitsaxena/LeetCode/tree/master/0890-lemonade-change) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/thearpitsaxena/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thearpitsaxena/LeetCode/tree/master/0560-subarray-sum-equals-k) |
