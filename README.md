@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/thearpitsaxena/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/thearpitsaxena/LeetCode/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thearpitsaxena/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thearpitsaxena/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/thearpitsaxena/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/thearpitsaxena/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/thearpitsaxena/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/thearpitsaxena/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
