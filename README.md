@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/thearpitsaxena/LeetCode/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/thearpitsaxena/LeetCode/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/thearpitsaxena/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/thearpitsaxena/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/thearpitsaxena/LeetCode/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thearpitsaxena/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thearpitsaxena/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/thearpitsaxena/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
