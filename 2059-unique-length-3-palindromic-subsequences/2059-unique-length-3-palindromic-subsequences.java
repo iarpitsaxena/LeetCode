@@ -1,6 +1,3 @@
-import java.util.HashMap;
-import java.util.HashSet;
-
 class Solution {
     public int countPalindromicSubsequence(String s) {
         int n = s.length();
