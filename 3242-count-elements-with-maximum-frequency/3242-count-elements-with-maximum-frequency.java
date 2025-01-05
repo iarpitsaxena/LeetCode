@@ -1,18 +1,19 @@
-class Solution {
-  public int maxFrequencyElements(int[] nums) {
-    final int kMax = 100;
-    int ans = 0;
-    int[] count = new int[kMax + 1];
 
-    for (final int num : nums)
-      ++count[num];
 
-    final int maxFreq = Arrays.stream(count).max().getAsInt();
+class Solution{
+    public int maxFrequencyElements(int[] nums){
+        final int fMax = 100;
+        int ans = 0;
+        int[] count = new int[fMax + 1];
 
-    for (final int freq : count)
-      if (freq == maxFreq)
-        ans += maxFreq;
-
-    return ans;
-  }
+        for(int num : nums){
+            count[num]++;
+        }
+        final int maxFreq = Arrays.stream(count).max().getAsInt();
+        for(int freq: count){
+            if(freq == maxFreq)
+                ans+=maxFreq;
+        }
+        return ans;
+    }
 }
