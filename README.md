@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/thearpitsaxena/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/thearpitsaxena/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thearpitsaxena/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/thearpitsaxena/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/thearpitsaxena/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/thearpitsaxena/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Matrix
 |  |
 | ------- |
