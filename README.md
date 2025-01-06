@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/thearpitsaxena/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thearpitsaxena/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/thearpitsaxena/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/thearpitsaxena/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/thearpitsaxena/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/thearpitsaxena/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/thearpitsaxena/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Depth-First Search
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/thearpitsaxena/LeetCode/tree/master/0724-find-pivot-index) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/thearpitsaxena/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/thearpitsaxena/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/thearpitsaxena/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
