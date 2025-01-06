@@ -1,18 +1,22 @@
 class Solution {
     public int[] minOperations(String boxes) {
-        int res[] = new int[boxes.length()];
-        int count = 0; int ops = 0;
-        for(int i = 0; i<boxes.length();i++){
-            res[i] = ops;
-            count += boxes.charAt(i) - '0';
-            ops += count;
+        int n = boxes.length();
+        int ans[] = new int[n];
+        int cumVal = 0;
+        int cumValSum = 0;
+
+        for(int i = 0;i<n;i++){
+            ans[i] += cumValSum;
+            cumVal += boxes.charAt(i) == '0' ? 0 : 1;
+            cumValSum += cumVal;
         }
-        ops=0;count=0;
-        for(int i = boxes.length()-1;i > -1; i--){
-            res[i] += ops;
-            count += boxes.charAt(i) - '0';
-            ops += count;
+        cumVal=0; cumValSum = 0;
+        for(int i = n-1;i>=0;i--){
+            ans[i] += cumValSum;
+            cumVal += boxes.charAt(i) == '0' ? 0 : 1;
+            cumValSum += cumVal;
         }
-        return res;
+        return ans;
+        
     }
 }
