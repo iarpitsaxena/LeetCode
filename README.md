@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/thearpitsaxena/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/thearpitsaxena/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2211-k-radius-subarray-averages](https://github.com/thearpitsaxena/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/thearpitsaxena/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/thearpitsaxena/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [2048-build-array-from-permutation](https://github.com/thearpitsaxena/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Database
 |  |
 | ------- |
