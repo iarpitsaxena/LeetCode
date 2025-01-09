@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/thearpitsaxena/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thearpitsaxena/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/thearpitsaxena/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/thearpitsaxena/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/thearpitsaxena/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
 | ------- |
