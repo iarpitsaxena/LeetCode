@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thearpitsaxena/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thearpitsaxena/LeetCode/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/thearpitsaxena/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/thearpitsaxena/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/thearpitsaxena/LeetCode/tree/master/0952-word-subsets) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thearpitsaxena/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thearpitsaxena/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thearpitsaxena/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/thearpitsaxena/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2047-find-a-peak-element-ii) |
