@@ -3,12 +3,12 @@ public class Solution extends VersionControl {
     int l = 1;
     int r = n;
 
-    while (l < r) {
+    while (l <= r) {
       final int m = l + (r - l) / 2;
       if (!isBadVersion(m))
         l = m + 1;
       else
-        r = m;
+        r = m - 1;
     }
 
     return l;
