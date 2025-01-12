@@ -5,10 +5,10 @@ public class Solution extends VersionControl {
 
     while (l < r) {
       final int m = l + (r - l) / 2;
-      if (isBadVersion(m))
-        r = m;
-      else
+      if (!isBadVersion(m))
         l = m + 1;
+      else
+        r = m;
     }
 
     return l;
