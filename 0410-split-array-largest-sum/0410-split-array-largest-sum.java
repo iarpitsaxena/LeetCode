@@ -1,30 +1,32 @@
 class Solution {
-  public int splitArray(int[] nums, int k) {
-    final int n = nums.length;
-    int[][] mem = new int[n + 1][k + 1];
-    int[] prefix = new int[n + 1];
-    Arrays.stream(mem).forEach(A -> Arrays.fill(A, Integer.MAX_VALUE));
+    public int splitArray(int[] nums, int k) {
+        int start = 0;
+        int end = 0;
+        for(int i = 0; i < nums.length; i++){
+            start = Math.max(start, nums[i]);// in the end of loop this will contain the max item from the array.
+            end += nums[i];
+        }
+        // apply binary search
+        while(start < end){
+            //try for the middle for potential answer
+            int mid = start + (end - start)/2;
+            // calculate how many pieces you can divide this in with this max sum
+            int sum = 0;
+            int pieces = 1;//Initially, you can divide it into 1 piece
+            for(int num : nums){
+                if(sum + num > mid){
+                    sum = num;
+                    pieces++;
+                }else {
+                    sum += num;
+                }
+            }
+            if(pieces > k)
+                start = mid + 1;
+            else
+                end = mid;
 
-    for (int i = 0; i < n; ++i)
-      prefix[i + 1] = nums[i] + prefix[i];
-
-    return splitArray(nums, n, k, prefix, mem);
-  }
-
-  // Returns the minimum of the maximum sum to split the first i numbers into k
-  // groups.
-  private int splitArray(int[] nums, int i, int k, int[] prefix, int[][] mem) {
-    if (k == 1)
-      return prefix[i];
-    if (mem[i][k] < Integer.MAX_VALUE)
-      return mem[i][k];
-
-    // Try all the possible partitions.
-    for (int j = k - 1; j < i; ++j)
-      mem[i][k] = Math.min(mem[i][k],                                        //
-                           Math.max(splitArray(nums, j, k - 1, prefix, mem), //
-                                    prefix[i] - prefix[j]));
-
-    return mem[i][k];
-  }
+        }
+        return end;// here start == end
+    }
 }
