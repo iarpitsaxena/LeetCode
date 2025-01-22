@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/thearpitsaxena/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/thearpitsaxena/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/thearpitsaxena/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/thearpitsaxena/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thearpitsaxena/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/thearpitsaxena/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thearpitsaxena/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0268-missing-number) |
