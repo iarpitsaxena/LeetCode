@@ -9,16 +9,19 @@ class Solution {
         while (i < nums.length) {
             int index = nums[i] -1;
             if(nums[i] != nums[index]){
-                swap(nums,i, index);
+                // swap(nums,i, index);
+                int temp = nums[i];
+                nums[i] = nums[index];
+                nums[index] = temp;
             }else {
                 i++;
             }
         }
     }
-    static void swap(int[] nums,int i,int index) {
-        int temp = nums[i];
-        nums[i] = nums[index];
-        nums[index] = temp;
-    }
+    // static void swap(int[] nums,int i,int index) {
+    //     int temp = nums[i];
+    //     nums[i] = nums[index];
+    //     nums[index] = temp;
+    // }
     
 }
