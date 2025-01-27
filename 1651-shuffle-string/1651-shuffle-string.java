@@ -1,24 +1,16 @@
 class Solution {
-    public String restoreString(String s, int[] indices) {        
-    char[] cArr = s.toCharArray();
-    for (int i = 0; i < cArr.length; i++) {
-        while (i != indices[i]) {
-            swapChar(cArr, i, indices[i]);
-            swapInt(indices, i, indices[i]);
-        }        
+    public String restoreString(String s, int[] indices) {
+        
+        int length=s.length();
+        StringBuilder sb=new StringBuilder("");
+         char c[]=new char[length];
+       
+        for(int i=0;i<length;i++){
+
+            c[indices[i]]=s.charAt(i);
+
+        }
+        sb.append(c);
+        return sb.toString();
     }
-    return String.valueOf(cArr);
-}
-
-public void swapInt(int[] indices, int x, int y) {
-    int temp = indices[x];
-    indices[x] = indices[y];
-    indices[y] = temp;   
-}
-
-public void swapChar(char[] cArr, int x, int y) {
-    char t = cArr[x];
-    cArr[x] = cArr[y];
-    cArr[y] = t;
-}
 }
