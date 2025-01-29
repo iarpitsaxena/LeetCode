@@ -1,16 +1,18 @@
 class Solution {
-    public int waysToSplitArray(int[] nums) {
-        int ans = 0;
-        long prefix = 0;
-        long suffix = Arrays.stream(nums).asLongStream().sum();
-
-        for(int i = 0; i < nums.length - 1; ++i){
-            prefix += nums[i];
-            suffix -= nums[i];
-            if(prefix >= suffix){
-            ans++;
-            }    
+    public static int waysToSplitArray(int[] nums) {
+        int n = nums.length;
+        long[] arr = new long[n];
+        arr[0] = nums[0];
+        for(int i = 1; i < n; ++i){
+            arr[i] = nums[i] + arr[i-1];
         }
-        return ans;
+        int count = 0;
+        for(int i = 0; i < n-1; ++i){
+            long leftSum = arr[i];
+            long rightSum = arr[n - 1] - arr[i];
+            if(leftSum>= rightSum)
+                count++;
+        }
+        return count;
     }
 }
