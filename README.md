@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/thearpitsaxena/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/thearpitsaxena/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/thearpitsaxena/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/thearpitsaxena/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/thearpitsaxena/LeetCode/tree/master/0455-assign-cookies) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/thearpitsaxena/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/thearpitsaxena/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thearpitsaxena/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0202-happy-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thearpitsaxena/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/thearpitsaxena/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/thearpitsaxena/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thearpitsaxena/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
