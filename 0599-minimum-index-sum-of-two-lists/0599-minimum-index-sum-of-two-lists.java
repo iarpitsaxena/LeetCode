@@ -12,17 +12,18 @@ class Solution {
             if(map.containsKey(list2[i])){
                 if(i + map.get(list2[i]) < minIndex){
                     minIndex = i + map.get(list2[i]);
-                    result = new ArrayList<>();
+                    result.clear();
                     result.add(list2[i]);
                 }else if(i + map.get(list2[i]) == minIndex){
                     result.add(list2[i]);
                 }
             }
         }  
-        String[] ans = new String[result.size()];
-        for(int i = 0; i < result.size(); i++){
-            ans[i] = result.get(i);
-        }
-        return ans;
+        // String[] ans = new String[result.size()];
+        // for(int i = 0; i < result.size(); i++){
+        //     ans[i] = result.get(i);
+        
+        return result.toArray(new String[0]);
+        
     }
 }
