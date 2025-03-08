@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/thearpitsaxena/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/thearpitsaxena/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/thearpitsaxena/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thearpitsaxena/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thearpitsaxena/LeetCode/tree/master/0792-binary-search) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thearpitsaxena/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/thearpitsaxena/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0952-word-subsets](https://github.com/thearpitsaxena/LeetCode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/thearpitsaxena/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/thearpitsaxena/LeetCode/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/thearpitsaxena/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0952-word-subsets](https://github.com/thearpitsaxena/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
