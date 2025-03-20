@@ -15,8 +15,15 @@ class Solution {
   }
 
   // Returns the hours to eat all the piles with speed m.
-  private int eatHours(int[] piles, int m) {
-    return Arrays.stream(piles).reduce(
-        0, (subtotal, pile) -> subtotal + (pile - 1) / m + 1); // ceil(pile / m)
-  }
+//   private int eatHours(int[] piles, int m) {
+//     return Arrays.stream(piles).reduce(
+//         0, (subtotal, pile) -> subtotal + (pile - 1) / m + 1); // ceil(pile / m)
+//   }
+private int eatHours(int[] piles, int m){
+    int totalHours = 0;
+    for(int tile : piles){
+        totalHours += (tile + m - 1) / m;
+    }
+    return totalHours;
+}
 }
