@@ -1,40 +1,22 @@
-// class Solution {
-    // public void rotate(int[] nums, int k) {
-    //     brute force approach
-    //     int n=nums.length;
-    //        k=k%n;
-
-    //     for(int i = 0;i<k;++i){
-    //         int last = nums[n-1];
-    //         for(int j = n-1;j>0;--j){
-    //             nums[j]=nums[j-1];
-    //         }
-        
-    //     nums[0]= last;
-    //     }
-
-    //     int n = nums.length;
-        
-//     }
-// }
-
 class Solution {
-  public void rotate(int[] nums, int k) {
-    k %= nums.length;
-    reverse(nums, 0, nums.length - 1);
-    reverse(nums, 0, k - 1);
-    reverse(nums, k, nums.length - 1);
-  }
+    public void rotate(int[] nums, int k) {
+        int n = nums.length;
+        if(n == 0) return;
 
-  private void reverse(int[] nums, int l, int r) {
-    while (l < r)
-      swap(nums, l++, r--);
-  }
+        k = k % n;
+        if(k > n) return;
+        int[] temp = new int[k];
 
-  private void swap(int[] nums, int l, int r) {
-    final int temp = nums[l];
-    nums[l] = nums[r];
-    nums[r] = temp;
+        int index = 0;
+        for(int i = n - k; i < n; i++){
+            temp[index++] = nums[i];
+        }
+        for(int i = n - k -1; i>=0;i--){
+            nums[i + k] = nums[i];
+        }
 
-  }
+        for(int i = 0; i< k;i++){
+            nums[i] = temp[i];
+        }
+    }
 }
