@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/thearpitsaxena/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0386-lexicographical-numbers](https://github.com/thearpitsaxena/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Trie
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/thearpitsaxena/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/thearpitsaxena/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0143-reorder-list) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/thearpitsaxena/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0407-trapping-rain-water-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thearpitsaxena/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/thearpitsaxena/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -489,5 +493,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/thearpitsaxena/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
