@@ -13,16 +13,15 @@ class Solution {
         ListNode first = l1, second = l2;
         int carry = 0;
 
-        ListNode dummy = new ListNode (0);
+        ListNode dummy = new ListNode(0);
         ListNode trav = dummy;
-        while(first != null || second != null || carry != 0){
+        while(first!= null || second!= null || carry != 0){
             if(first != null){
-                carry = carry + first.val;
+                carry+= first.val;
                 first = first.next;
             }
-
             if(second != null){
-                carry += second.val;
+                carry+= second.val;
                 second = second.next;
             }
 
@@ -30,9 +29,7 @@ class Solution {
             trav = trav.next;
             carry /= 10;
         }
-
         return dummy.next;
-
         
     }
 }
