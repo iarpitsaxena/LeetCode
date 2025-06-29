@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/thearpitsaxena/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1035-cousins-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Trie
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/thearpitsaxena/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/thearpitsaxena/LeetCode/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/thearpitsaxena/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/thearpitsaxena/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1035-cousins-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -581,14 +585,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1035-cousins-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thearpitsaxena/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/thearpitsaxena/LeetCode/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 <!---LeetCode Topics End-->
