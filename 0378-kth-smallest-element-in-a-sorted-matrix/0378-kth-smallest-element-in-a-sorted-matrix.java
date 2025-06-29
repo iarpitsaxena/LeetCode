@@ -1,31 +1,21 @@
 class Solution {
+    record T(int i, int j, int num){}
     public int kthSmallest(int[][] matrix, int k) {
+
         int n = matrix.length;
-        int min = matrix[0][0];
-        int max = matrix[n-1][n-1];
 
-        while(min < max){
-            int mid = min + ((max - min) >> 1);
-            int count = countLessEqual(matrix,mid);
+        PriorityQueue<T> minHeap = new PriorityQueue<>(Comparator.comparingInt(T::num));
 
-            if(count < k) min = mid + 1;
-            else max = mid;
-        } 
-        return min; 
-    }
-    private int countLessEqual(int[][] matrix, int mid){
-        int n = matrix.length;
-        int row = n - 1;
-        int column = 0;
-        int count = 0;
-
-        while(row >= 0 && column < matrix[0].length){
-            if(matrix[row][column] <= mid){
-                count += (row + 1);
-                column++;
-            }
-            else row --;
+        for(int i = 0;i < n;i++){
+            minHeap.offer(new T(i,0,matrix[i][0]));
         }
-        return count;
+
+        while(k-- > 1){
+            final int i = minHeap.peek().i;
+            final int j = minHeap.poll().j;
+            if(j +1 < matrix[0].length)
+                minHeap.offer(new T(i,j+1,matrix[i][j+1]));
+        }
+        return minHeap.poll().num; 
     }
 }
