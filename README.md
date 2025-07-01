@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thearpitsaxena/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0333-largest-bst-subtree](https://github.com/thearpitsaxena/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0386-lexicographical-numbers](https://github.com/thearpitsaxena/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/thearpitsaxena/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/thearpitsaxena/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0333-largest-bst-subtree](https://github.com/thearpitsaxena/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0410-split-array-largest-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/thearpitsaxena/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thearpitsaxena/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0333-largest-bst-subtree](https://github.com/thearpitsaxena/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0543-diameter-of-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thearpitsaxena/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0333-largest-bst-subtree](https://github.com/thearpitsaxena/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0543-diameter-of-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thearpitsaxena/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0333-largest-bst-subtree](https://github.com/thearpitsaxena/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Memoization
 |  |
