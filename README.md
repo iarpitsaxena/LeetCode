@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thearpitsaxena/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/thearpitsaxena/LeetCode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/thearpitsaxena/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/thearpitsaxena/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/thearpitsaxena/LeetCode/tree/master/0056-merge-intervals) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/thearpitsaxena/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/thearpitsaxena/LeetCode/tree/master/0455-assign-cookies) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/thearpitsaxena/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/thearpitsaxena/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/thearpitsaxena/LeetCode/tree/master/0118-pascals-triangle) |
