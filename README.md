@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/thearpitsaxena/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3618-find-the-original-typed-string-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3618-find-the-original-typed-string-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Matrix
 |  |
 | ------- |
