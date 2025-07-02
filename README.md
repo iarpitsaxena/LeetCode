@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/thearpitsaxena/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/thearpitsaxena/LeetCode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/thearpitsaxena/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/thearpitsaxena/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/thearpitsaxena/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/thearpitsaxena/LeetCode/tree/master/0066-plus-one) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/thearpitsaxena/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/thearpitsaxena/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/thearpitsaxena/LeetCode/tree/master/0890-lemonade-change) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/thearpitsaxena/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/thearpitsaxena/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/thearpitsaxena/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
