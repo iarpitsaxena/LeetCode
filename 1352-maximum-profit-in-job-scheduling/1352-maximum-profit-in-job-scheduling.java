@@ -22,7 +22,7 @@ class Solution {
 
     private int getMaxProfit(Job[] jobs){
         int maxProfit = 0;
-        Queue<Job> minHeap = new PriorityQueue<>(Comparator.comparingInt(Job::endTime));
+        PriorityQueue<Job> minHeap = new PriorityQueue<>(Comparator.comparingInt(Job::endTime));
         for (Job job: jobs){
             while(!minHeap.isEmpty() && job.startTime>=minHeap.peek().endTime)
                 maxProfit = Math.max(maxProfit,minHeap.poll().profit());
