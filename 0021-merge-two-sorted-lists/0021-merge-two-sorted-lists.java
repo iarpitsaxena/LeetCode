@@ -13,7 +13,7 @@ class Solution {
         ListNode merged = new ListNode();
         ListNode curr = merged;
 
-        while(list1 != null && list2 != null){
+        while(list1 != null && list2!= null){
             if(list1.val <= list2.val){
                 curr.next = list1;
                 list1 = list1.next;
@@ -25,7 +25,7 @@ class Solution {
                 curr = curr.next;
             }
         }
-        curr.next = (list1!= null)?list1:list2;
+        curr.next = (list1!=null)?list1:list2;
         return merged.next;
     }
 }
