@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3055-maximum-odd-binary-number](https://github.com/thearpitsaxena/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thearpitsaxena/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/thearpitsaxena/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Greedy
 |  |
 | ------- |
