@@ -1,14 +1,30 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        if (n == 0) {
-            return new ArrayList(Arrays.asList(""));
-        }
+        List<String> answer = new ArrayList<>();
+        backtracking(answer,new StringBuilder(),0,0,n);
+        return answer; 
+    }
 
-        List<String> answer = new ArrayList();
-        for (int leftCount = 0;leftCount < n;++leftCount)
-            for (String leftString : generateParenthesis(leftCount))
-            for (String rightString : generateParenthesis(n - 1 - leftCount))
-            answer.add("(" + leftString + ")" + rightString);
-        return answer;
+    private void backtracking(
+        List<String> answer,
+        StringBuilder curString,
+        int leftCount,
+        int rightCount,
+        int n
+    ){
+        if(curString.length()==2*n){
+            answer.add(curString.toString());
+            return;
+        }
+        if(leftCount < n){
+            curString.append("(");
+            backtracking(answer,curString,leftCount+1,rightCount,n);
+            curString.deleteCharAt(curString.length() - 1);
+        }
+        if(rightCount < leftCount){
+            curString.append(")");
+            backtracking(answer,curString,leftCount,rightCount + 1,n);
+            curString.deleteCharAt(curString.length() - 1);
+        }
     }
 }
