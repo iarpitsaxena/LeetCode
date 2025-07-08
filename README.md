@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thearpitsaxena/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/thearpitsaxena/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/thearpitsaxena/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/thearpitsaxena/LeetCode/tree/master/0055-jump-game) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/thearpitsaxena/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/thearpitsaxena/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/thearpitsaxena/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/thearpitsaxena/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/thearpitsaxena/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/thearpitsaxena/LeetCode/tree/master/0070-climbing-stairs) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thearpitsaxena/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/thearpitsaxena/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -665,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/thearpitsaxena/LeetCode/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/thearpitsaxena/LeetCode/tree/master/1160-letter-tile-possibilities) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
