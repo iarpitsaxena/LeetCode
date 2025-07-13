@@ -1,3 +1,13 @@
+class Pair {
+    int first;
+    int second;
+
+    public Pair(int first, int second) {
+        this.first = first;
+        this.second = second;
+    }
+}
+
 class Solution {
     public int numIslands(char[][] grid) {
         int n = grid.length;
@@ -9,31 +19,39 @@ class Solution {
             for (int col = 0; col < m; col++) {
                 if (grid[row][col] == '1' && vis[row][col] == 0) {
                     count++;
-                    dfs(row, col, vis, grid);
+                    bfs(row, col, vis, grid);
                 }
             }
         }
         return count;
     }
 
-    private void dfs(int row, int col, int[][] vis, char[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
+    private void bfs(int row, int col, int[][] vis, char[][] grid) {
+    vis[row][col] = 1;
+    Queue<Pair> q = new LinkedList<>();
+    q.add(new Pair(row, col));
+    int n = grid.length;
+    int m = grid[0].length;
 
-        vis[row][col] = 1;
+    // Only 4 directions (no diagonals)
+    int[] dRow = {-1, 0, 1, 0};
+    int[] dCol = {0, 1, 0, -1};
 
-        // Only 4 directions (up, right, down, left)
-        int[] dRow = {-1, 0, 1, 0};
-        int[] dCol = {0, 1, 0, -1};
+    while (!q.isEmpty()) {
+        int ro = q.peek().first;
+        int co = q.peek().second;
+        q.remove();
 
         for (int i = 0; i < 4; i++) {
-            int nrow = row + dRow[i];
-            int ncol = col + dCol[i];
+            int nrow = ro + dRow[i];
+            int ncol = co + dCol[i];
 
             if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
                 grid[nrow][ncol] == '1' && vis[nrow][ncol] == 0) {
-                dfs(nrow, ncol, vis, grid); // recursive call
-            }
+                vis[nrow][ncol] = 1;
+                q.add(new Pair(nrow, ncol));
+                }
         }
+    }
     }
 }
