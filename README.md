@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/thearpitsaxena/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/thearpitsaxena/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thearpitsaxena/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/thearpitsaxena/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/thearpitsaxena/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/thearpitsaxena/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/thearpitsaxena/LeetCode/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thearpitsaxena/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/thearpitsaxena/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
