@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1651-shuffle-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/thearpitsaxena/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/thearpitsaxena/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/thearpitsaxena/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/thearpitsaxena/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/thearpitsaxena/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/thearpitsaxena/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/thearpitsaxena/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thearpitsaxena/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/thearpitsaxena/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Brainteaser
 |  |
