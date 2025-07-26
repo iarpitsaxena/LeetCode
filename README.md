@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/thearpitsaxena/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/thearpitsaxena/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thearpitsaxena/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/thearpitsaxena/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/thearpitsaxena/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/thearpitsaxena/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thearpitsaxena/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/thearpitsaxena/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/thearpitsaxena/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/thearpitsaxena/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thearpitsaxena/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thearpitsaxena/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thearpitsaxena/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thearpitsaxena/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/thearpitsaxena/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/thearpitsaxena/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thearpitsaxena/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Database
 |  |
@@ -639,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/thearpitsaxena/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thearpitsaxena/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Shortest Path
 |  |
 | ------- |
