@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/thearpitsaxena/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/thearpitsaxena/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/thearpitsaxena/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1651-shuffle-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/thearpitsaxena/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/thearpitsaxena/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/thearpitsaxena/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/thearpitsaxena/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/thearpitsaxena/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/thearpitsaxena/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thearpitsaxena/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/thearpitsaxena/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/thearpitsaxena/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thearpitsaxena/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -824,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1628-count-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Union Find
 |  |
