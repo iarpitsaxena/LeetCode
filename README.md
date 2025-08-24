@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thearpitsaxena/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/thearpitsaxena/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/thearpitsaxena/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/thearpitsaxena/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/thearpitsaxena/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sliding Window
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/thearpitsaxena/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/thearpitsaxena/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Simulation
 |  |
