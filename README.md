@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/thearpitsaxena/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/thearpitsaxena/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/thearpitsaxena/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/thearpitsaxena/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/thearpitsaxena/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/thearpitsaxena/LeetCode/tree/master/1036-rotting-oranges) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/thearpitsaxena/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/thearpitsaxena/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/thearpitsaxena/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/thearpitsaxena/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thearpitsaxena/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
