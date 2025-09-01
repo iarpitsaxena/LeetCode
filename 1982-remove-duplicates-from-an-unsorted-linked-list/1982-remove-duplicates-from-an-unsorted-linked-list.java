@@ -3,7 +3,13 @@ class Solution {
         ListNode dummy = new ListNode(0,head);
         Map<Integer,Integer> hash = new HashMap<>();
         for(ListNode curr = head; curr != null;curr=curr.next){
-            hash.merge(curr.val,1,Integer::sum);
+            // hash.merge(curr.val,1,Integer::sum);
+            if(hash.containsKey(curr.val)){
+                hash.put(curr.val,hash.get(curr.val)+1);
+            }
+            else{
+                hash.put(curr.val,1);
+            }
         }
         ListNode curr = dummy;
         while(curr!=null){
