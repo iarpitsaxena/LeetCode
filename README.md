@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thearpitsaxena/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/thearpitsaxena/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2887-sort-vowels-in-a-string](https://github.com/thearpitsaxena/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thearpitsaxena/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/thearpitsaxena/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/thearpitsaxena/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/thearpitsaxena/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/thearpitsaxena/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/thearpitsaxena/LeetCode/tree/master/3396-valid-word) |
