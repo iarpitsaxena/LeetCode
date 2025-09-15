@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/thearpitsaxena/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1160-letter-tile-possibilities](https://github.com/thearpitsaxena/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/thearpitsaxena/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/thearpitsaxena/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/thearpitsaxena/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/thearpitsaxena/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/thearpitsaxena/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/thearpitsaxena/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thearpitsaxena/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/thearpitsaxena/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
