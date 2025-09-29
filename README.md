@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/thearpitsaxena/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/thearpitsaxena/LeetCode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/thearpitsaxena/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/thearpitsaxena/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1185-find-in-mountain-array](https://github.com/thearpitsaxena/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thearpitsaxena/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/thearpitsaxena/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/thearpitsaxena/LeetCode/tree/master/0867-new-21-game) |
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/thearpitsaxena/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/thearpitsaxena/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thearpitsaxena/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
