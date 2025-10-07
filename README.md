@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/thearpitsaxena/LeetCode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thearpitsaxena/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thearpitsaxena/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/thearpitsaxena/LeetCode/tree/master/0816-design-hashset) |
 | [0830-largest-triangle-area](https://github.com/thearpitsaxena/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/thearpitsaxena/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thearpitsaxena/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thearpitsaxena/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thearpitsaxena/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/thearpitsaxena/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/thearpitsaxena/LeetCode/tree/master/0733-flood-fill) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1035-cousins-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thearpitsaxena/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/thearpitsaxena/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/thearpitsaxena/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/thearpitsaxena/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/thearpitsaxena/LeetCode/tree/master/1036-rotting-oranges) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/thearpitsaxena/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/thearpitsaxena/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/thearpitsaxena/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1035-cousins-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/thearpitsaxena/LeetCode/tree/master/1036-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thearpitsaxena/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -794,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/thearpitsaxena/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/thearpitsaxena/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thearpitsaxena/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2429-design-a-food-rating-system](https://github.com/thearpitsaxena/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -916,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/thearpitsaxena/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/thearpitsaxena/LeetCode/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Segment Tree
 |  |
 | ------- |
