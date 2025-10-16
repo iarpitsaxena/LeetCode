@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/thearpitsaxena/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/thearpitsaxena/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/thearpitsaxena/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/thearpitsaxena/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/thearpitsaxena/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3055-maximum-odd-binary-number](https://github.com/thearpitsaxena/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/thearpitsaxena/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/thearpitsaxena/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/thearpitsaxena/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2429-design-a-food-rating-system](https://github.com/thearpitsaxena/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thearpitsaxena/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thearpitsaxena/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thearpitsaxena/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/thearpitsaxena/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/thearpitsaxena/LeetCode/tree/master/3055-maximum-odd-binary-number) |
