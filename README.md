@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/thearpitsaxena/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/thearpitsaxena/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/thearpitsaxena/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2211-k-radius-subarray-averages](https://github.com/thearpitsaxena/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2227-sum-of-subarray-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/thearpitsaxena/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/thearpitsaxena/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/thearpitsaxena/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/thearpitsaxena/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2429-design-a-food-rating-system](https://github.com/thearpitsaxena/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/thearpitsaxena/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/thearpitsaxena/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thearpitsaxena/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
