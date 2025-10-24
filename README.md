@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/thearpitsaxena/LeetCode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/thearpitsaxena/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/thearpitsaxena/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/thearpitsaxena/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/thearpitsaxena/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/thearpitsaxena/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/thearpitsaxena/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/thearpitsaxena/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/thearpitsaxena/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2429-design-a-food-rating-system](https://github.com/thearpitsaxena/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/thearpitsaxena/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/thearpitsaxena/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/thearpitsaxena/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/thearpitsaxena/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/thearpitsaxena/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thearpitsaxena/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/thearpitsaxena/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/thearpitsaxena/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/thearpitsaxena/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/thearpitsaxena/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/thearpitsaxena/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -938,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/thearpitsaxena/LeetCode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/thearpitsaxena/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/thearpitsaxena/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/thearpitsaxena/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Stack
 |  |
 | ------- |
