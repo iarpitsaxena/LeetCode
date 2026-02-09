@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/thearpitsaxena/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/thearpitsaxena/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/thearpitsaxena/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/thearpitsaxena/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thearpitsaxena/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/thearpitsaxena/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/thearpitsaxena/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thearpitsaxena/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/thearpitsaxena/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/thearpitsaxena/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2756-buy-two-chocolates](https://github.com/thearpitsaxena/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/thearpitsaxena/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/thearpitsaxena/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/thearpitsaxena/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
