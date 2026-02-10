@@ -26,7 +26,7 @@ class Solution{
         int n = nums.length;
         if(n == 1) return nums[0];
         int[] t = new int[n+1];
-
+        //t[i] = max profit till i house
         t[0] = 0;
         t[1] = nums[0];
         for(int i = 2;i <=n;i++){
