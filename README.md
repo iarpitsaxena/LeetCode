@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/thearpitsaxena/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/thearpitsaxena/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2429-design-a-food-rating-system](https://github.com/thearpitsaxena/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/thearpitsaxena/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/thearpitsaxena/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/thearpitsaxena/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/thearpitsaxena/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/thearpitsaxena/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/thearpitsaxena/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thearpitsaxena/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/thearpitsaxena/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thearpitsaxena/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
