@@ -16,3 +16,5 @@ class Solution {
         return solve(nums,0,n);
     }
 }
+
+// this is done using memoization + recursion(top-down approach).
