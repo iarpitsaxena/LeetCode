@@ -1,31 +1,62 @@
 class Solution {
-    Long[][][] dp;
-    long NEG = -(long)1e18;
-    public long maximumProfit(int[] prices, int k) {
-        int n = prices.length;
-        dp = new Long[n][k+1][3];
-        return dfs(0,k,0, prices);
-    }
-    private long dfs(int i, int cap, int state, int[] prices){
-        if(i == prices.length ||  cap == 0){
-            return state == 0?0: NEG;
-        }
-        if(dp[i][cap][state]!=null) return dp[i][cap][state];
 
-        long skip = dfs(i+1, cap, state, prices);
-        long ans = skip;
-        if(state == 0){
-            long buy = -prices[i] + dfs(i+1, cap, 1, prices);
-            long shortSell = prices[i] + dfs(i+1, cap, 2, prices);
-            ans = Math.max(skip, Math.max(buy,shortSell));
+    public long maximumProfit(int[] prices, int k) {
+
+        int n = prices.length;
+
+        long NEG = -(long)1e18;
+
+        long[][][] dp =
+            new long[n + 1][k + 1][3];
+
+        // base cases
+        for (int cap = 0; cap <= k; cap++) {
+
+            dp[n][cap][0] = 0;
+
+            dp[n][cap][1] = NEG;
+
+            dp[n][cap][2] = NEG;
         }
-        else if(state == 1){
-            long sell = prices[i] + dfs(i+1, cap - 1, 0,prices);
-            ans = Math.max(skip, sell);
-        } else{
-            long buyBack = -prices[i] + dfs(i+1, cap - 1, 0, prices);
-            ans = Math.max(skip, buyBack);
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            for (int cap = 1; cap <= k; cap++) {
+
+                // state 0
+                dp[i][cap][0] = Math.max(
+
+                    dp[i + 1][cap][0],
+
+                    Math.max(
+                        -prices[i]
+                        + dp[i + 1][cap][1],
+
+                        prices[i]
+                        + dp[i + 1][cap][2]
+                    )
+                );
+
+                // state 1
+                dp[i][cap][1] = Math.max(
+
+                    dp[i + 1][cap][1],
+
+                    prices[i]
+                    + dp[i + 1][cap - 1][0]
+                );
+
+                // state 2
+                dp[i][cap][2] = Math.max(
+
+                    dp[i + 1][cap][2],
+
+                    -prices[i]
+                    + dp[i + 1][cap - 1][0]
+                );
+            }
         }
-        return dp[i][cap][state] = ans;
+
+        return dp[0][k][0];
     }
 }
