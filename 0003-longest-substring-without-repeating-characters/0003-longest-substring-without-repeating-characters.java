@@ -10,7 +10,6 @@ class Solution {
             map.put(c,right);
             max = Math.max(max,right - left + 1);
         }
-        return max;
-        
+        return max;  
     }
 }
