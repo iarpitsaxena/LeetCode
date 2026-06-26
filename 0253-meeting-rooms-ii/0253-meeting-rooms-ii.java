@@ -1,21 +1,22 @@
-public class Solution{
-        public int minMeetingRooms(int[][] intervals){
-            if(intervals.length == 0) {
-                return 0;
-            }
-
-            PriorityQueue<Integer> allocator = new PriorityQueue<Integer>();
-            Arrays.sort(intervals,(a,b)->a[0]-b[0]);
-
-            allocator.add(intervals[0][1]);
-
-            for(int i = 1;i < intervals.length;i++){
-                if(intervals[i][0] >= allocator.peek()){
-                    allocator.poll();
-                }
-                allocator.add(intervals[i][1]);
-            }
-
-            return allocator.size();
+class Solution {
+    public int minMeetingRooms(int[][] intervals) {
+        List<int[]> events = new ArrayList<>();
+        for(int[] interval : intervals){
+            events.add(new int[]{interval[0],1});
+            events.add(new int[]{interval[1],-1});
         }
+        Collections.sort(events,(a,b)->{
+            if(a[0] == b[0]){
+                return a[1] - b[1];
+            }
+            return a[0] - b[0];
+        });
+        int rooms = 0;
+        int maxRooms = 0;
+        for(int[] event: events){
+            rooms += event[1];
+            maxRooms = Math.max(rooms,maxRooms);
+        }
+        return maxRooms;
     }
+}
