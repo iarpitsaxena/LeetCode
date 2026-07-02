@@ -15,27 +15,35 @@
  */
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-        if(root == null) return null;
-        if(key < root.val){
-            root.left = deleteNode(root.left, key);
+        TreeNode parent = null;
+        TreeNode curr = root;
+        while(curr != null && curr.val != key){
+            parent = curr;
+            if(key < curr.val){
+                curr = curr.left;
+            } else curr = curr.right;
         }
-        else if(key > root.val){
-            root.right = deleteNode(root.right, key);
-        }
-        else{
-            if(root.left == null) return root.right;
-            if(root.right == null) return root.left;
 
-            TreeNode successor = findMin(root.right);
-            root.val = successor.val;
-            root.right = deleteNode(root.right, successor.val);
+        if(curr == null) return root;
+
+        if(curr.left != null && curr.right != null){
+            TreeNode succParent = curr;
+            TreeNode succ = curr.right;
+            while(succ.left != null){
+                succParent = succ;
+                succ = succ.left;
+            }
+            
+            curr.val = succ.val;
+
+            parent = succParent;
+            curr = succ;
         }
+
+            TreeNode child = (curr.left != null)? curr.left : curr.right;
+            if(parent == null) return child;
+            if(parent.left == curr) parent.left = child;
+            if(parent.right == curr) parent.right = child; 
         return root;
-    }
-    private TreeNode findMin(TreeNode node){
-        while(node.left != null){
-            node = node.left;
-        }
-        return node;
     }
 }
