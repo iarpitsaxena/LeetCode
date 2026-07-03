@@ -1,28 +1,31 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+class State{
+    TreeNode node;
+    long min;
+    long max;
+
+    State(TreeNode node, long min, long max){
+        this.node = node;
+        this.min = min;
+        this.max = max;
+    }
+}
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return helper(root, null, null);
-    }
-    public boolean helper(TreeNode node, Integer low, Integer high){
-        if(node == null) return true;
-        if(low != null && node.val <= low) return false;
-        if(high != null && node.val >= high) return false;
-        boolean leftTree = helper(node.left,low,node.val);
-        boolean rightTree = helper(node.right,node.val, high);
-        return leftTree && rightTree;
+        if(root == null) return true;
+        Stack<State> stack = new Stack<>();
+        stack.push(new State(root, Long.MIN_VALUE,Long.MAX_VALUE));
+        while(!stack.isEmpty()){
+            State current = stack.pop();
+            TreeNode node = current.node;
+            if(node.val <= current.min || node.val >= current.max) return false;
+
+            if(node.right != null){
+                stack.push(new State(node.right,node.val,current.max));
+            }
+            if(node.left != null){
+                stack.push(new State(node.left, current.min, node.val));
+            }
+        }
+        return true;
     }
 }
