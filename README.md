@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/thearpitsaxena/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/thearpitsaxena/LeetCode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/thearpitsaxena/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/thearpitsaxena/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/thearpitsaxena/LeetCode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/thearpitsaxena/LeetCode/tree/master/1044-find-common-characters) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thearpitsaxena/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -963,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -975,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/thearpitsaxena/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thearpitsaxena/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/thearpitsaxena/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
 | ------- |
@@ -1001,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thearpitsaxena/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thearpitsaxena/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/thearpitsaxena/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Union Find
