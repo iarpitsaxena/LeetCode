@@ -8,15 +8,14 @@ class Solution {
     }
 
     private int robRange(int start, int[] nums, int end){
-        int length = end - start + 1;
-        int[] dp = new int[length];
-        dp[0] = nums[start];
-        if(length > 1){
-            dp[1] = Math.max(nums[start], nums[start + 1]);
+        int prev2 = 0;
+        int prev1 = 0;
+
+        for(int i = start;i <= end; i++){
+            int current = Math.max(prev1,prev2 + nums[i]);
+            prev2 = prev1;
+            prev1 = current;
         }
-        for(int i = 2;i < length; i++){
-            dp[i] = Math.max(dp[i-1],dp[i-2] + nums[start + i]);
-        }
-        return dp[length - 1];
+        return prev1;
     }
 }
