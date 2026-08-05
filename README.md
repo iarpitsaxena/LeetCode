@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thearpitsaxena/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/thearpitsaxena/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2211-k-radius-subarray-averages](https://github.com/thearpitsaxena/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2214-minimum-health-to-beat-game](https://github.com/thearpitsaxena/LeetCode/tree/master/2214-minimum-health-to-beat-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/thearpitsaxena/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2262-solving-questions-with-brainpower](https://github.com/thearpitsaxena/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thearpitsaxena/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thearpitsaxena/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thearpitsaxena/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/thearpitsaxena/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2214-minimum-health-to-beat-game](https://github.com/thearpitsaxena/LeetCode/tree/master/2214-minimum-health-to-beat-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/thearpitsaxena/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thearpitsaxena/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thearpitsaxena/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
