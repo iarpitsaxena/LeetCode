@@ -7,17 +7,24 @@ class Solution {
         for(int i = 0;i < n;i++){
             if(!visited[i]){
                 province++;
-                dfs(i,isConnected,visited);
+                bfs(i,isConnected,visited);
             }
         }
         return province;
     }
 
-    private void dfs(int city, int[][] isConnected,boolean[] visited){
+    private void bfs(int city, int[][] isConnected,boolean[] visited){
+        Queue<Integer> queue = new LinkedList<>();
         visited[city] = true;
-        for(int neighbour = 0;neighbour < n;neighbour++){
-            if(isConnected[city][neighbour] == 1 && !visited[neighbour]){
-                dfs(neighbour,isConnected,visited);
+        queue.add(city);
+
+        while(!queue.isEmpty()){
+            int current = queue.poll();
+            for(int neighbour = 0;neighbour < n;neighbour++){
+                if(isConnected[current][neighbour] == 1 && !visited[neighbour]){
+                    visited[neighbour] = true;
+                    queue.offer(neighbour);
+                }
             }
         }
     }
