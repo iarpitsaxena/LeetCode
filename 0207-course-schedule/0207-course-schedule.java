@@ -5,33 +5,37 @@ class Solution {
             adj.add(new ArrayList<>());
         }
 
-        int[] indegree = new int[numCourses];
         for(int[] prerequisite : prerequisites){
             int course = prerequisite[0];
             int pre = prerequisite[1];
             adj.get(pre).add(course);
-
-            indegree[course]++;
         }
+        boolean[] visited = new boolean[numCourses];
+        boolean[] path = new boolean[numCourses];
 
-        Queue<Integer> queue = new LinkedList<>();
-        for(int i = 0;i<numCourses;i++){
-            if(indegree[i] == 0){
-                queue.add(i);
-            }
-        }
-
-        int complete = 0;
-        while(!queue.isEmpty()){
-            int current = queue.poll();
-            complete++;
-            for(int next:adj.get(current)){
-                indegree[next]--;
-                if(indegree[next] == 0){
-                    queue.add(next);
+        for(int i =0;i < numCourses;i++){
+            if(!visited[i]){
+                if(dfs(i,adj,visited,path)){
+                    return false;
                 }
             }
         }
-        return complete == numCourses;
+        return true;
+    }
+
+    boolean dfs(int node, ArrayList<ArrayList<Integer>> adj,  boolean[] visited,  boolean[] path){
+        path[node] = true;
+        visited[node] = true;
+        for(int next : adj.get(node)){
+            if(!visited[next]){
+                if(dfs(next,adj,visited,path)){
+                    return true;
+                }
+            } else if(path[next]){
+                return true;
+            }
+        }
+        path[node] = false;
+        return false;
     }
 }
